@@ -1,0 +1,23 @@
+get the host operating system
+
+connect to microfot in order to check which hotfix are applicable to our version
+
+compare the applicable ones with the currently installed
+
+Output to have
+
+- OS 
+- Version
+- Language
+- KB not installed
+
+IF kb are all installed - then stdout:: find another way
+IF missing KB's - show their vulnerabilties
+
+Second menu - do you want to proceed further 
+check in explote-db for available vulnerabilities 
+
++-+-+-
+in the future 
+-> show running services
+-> show open ports 
